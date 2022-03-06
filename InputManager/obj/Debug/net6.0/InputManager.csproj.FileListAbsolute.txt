@@ -1,0 +1,15 @@
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\InputManager.exe
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\InputManager.deps.json
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\InputManager.runtimeconfig.json
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\InputManager.dll
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\ref\InputManager.dll
+D:\XiMeng\InputManager\InputManager\bin\Debug\net6.0\InputManager.pdb
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.csproj.AssemblyReference.cache
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.AssemblyInfoInputs.cache
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.AssemblyInfo.cs
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.csproj.CoreCompileInputs.cache
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.dll
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\ref\InputManager.dll
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.pdb
+D:\XiMeng\InputManager\InputManager\obj\Debug\net6.0\InputManager.genruntimeconfig.cache
